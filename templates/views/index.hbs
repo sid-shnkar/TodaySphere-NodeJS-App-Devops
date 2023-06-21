@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TodaySphere</title>
+    <link rel="icon" href="/img/homepage_logo.jpg">
+    <link rel="stylesheet" href="/css/styles.css">
+    <script></script>
+</head>
+<body>
+    <div class="main-content">
+        <header>
+            <h1> {{title}}</h1>
+            
+            <div>
+            <a href="/">Home</a>
+            <a href="/about">About me</a>
+            <a href="/help">Help</a>
+            
+            </div>
+        </header>
+        <p>Use this site to know about today's atmosphere around you!</p>
+        <form>
+            <input type="text" placeholder="Enter your location..."></input>
+            <button>Search</button> 
+        </form> 
+        <section>
+            <h2>Location</h2>
+            <p id="message-1">No details to show right now</p>
+        </section>
+        <section>
+            <h2>Weather</h2>
+            <p id="message-2">No details to show right now</p>
+        </section>
+        <section>
+            <h2>News</h2>
+            <p id="message-3">No details to show right now</p>
+            <ul id="dynamic-list"></ul>
+        </section>
+        <section>
+            <h2>Activity of the Day</h2>
+            <p id="message-5">No details to show right now</p>
+            <p id="message-6"></p>
+            <p id="message-7"></p>
+        </section>
+        <section>
+            <h2>NASA Astronomy Picture of the Day</h2>
+            <p id="message-4">No details to show right now</p>
+            <img id="nasa-image" src="/img/nasa_apod_logo.png" alt="NASA APOD" width="770" height="600" >
+        </section>
+    </div>
+    <script src="/js/app.js"></script>
+</body>
+</html>
