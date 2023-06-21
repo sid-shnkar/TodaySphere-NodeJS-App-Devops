@@ -52,7 +52,15 @@ App Name: Today + Atmosphere(around you) - TodaySphere :wink:
 
 ### Screenshots
 
+---
 
+###  alignment example
+
+<p align="center">
+  <img width="460" height="300" src="/pics/aboutme.png">
+</p>
+
+---
 
 <!-- GETTING STARTED -->
 ## Getting Started
