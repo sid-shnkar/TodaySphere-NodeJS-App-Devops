@@ -58,9 +58,10 @@ App Name: Today + Atmosphere(around you) - TodaySphere :wink:
 ![screenshot-4](pics/aws_ec2_details.png)
 ![screenshot-5](pics/jenkins_console_output.png)
 ![screenshot-6](pics/dockerbuild_image.png)
-![screenshot-7](pics/jenkins_autmated_build_successfull.png)
-![screenshot-8](pics/github_webhooks.png)
-![screenshot-9](pics/jenkins_github_webhook_build_success.png)
+![screenshot-7](pics/docker_container_running_app.png)
+![screenshot-8](pics/jenkins_autmated_build_successfull.png)
+![screenshot-9](pics/github_webhooks.png)
+![screenshot-10](pics/jenkins_github_webhook_build_success.png)
 
 <!-- GETTING STARTED -->
 ## Getting Started
