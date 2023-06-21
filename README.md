@@ -32,7 +32,7 @@ A one-stop solution to start a good day! :smiley:
 
 For the Devops part of this project, I created an AWS EC2 instance, installed Jenkins on the server, then integrated Jenkins with this GitHub repository containing Node.js app code. Next, using Docker, I dockerized the Node.js app and automated this process on Jenkins. Finally automated the whole process using GitHub Webhooks.
 
-App Name: Today + Atmosphere - TodaySphere :wink:
+App Name: Today + Atmosphere(around you) - TodaySphere :wink:
 
 ### Technologies used
 
