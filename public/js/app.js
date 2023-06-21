@@ -40,7 +40,7 @@ todaySphereForm.addEventListener('submit', (e) => {
                boredTypeMessage.textContent = "Type - " + data.boredType.charAt(0).toUpperCase() + data.boredType.slice(1);
                boredParticipantsMessage.textContent = "Participants - " + data.boredParticipants ;
             
-               nasaMessage.textContent = data.nasaImageTitle;
+               nasaMessage.textContent = "Title - " + data.nasaImageTitle;
                nasaImage.src = data.nasaImageUrl;
 
                 // Clear existing list items
