@@ -52,15 +52,15 @@ App Name: Today + Atmosphere(around you) - TodaySphere :wink:
 
 ### Screenshots
 
----
-
-###  alignment example
-
-<p align="center">
-  <img width="460" height="300" src="/pics/aboutme.png">
-</p>
-
----
+![screenshot-1](pics/homepage_dwarka_search_1.png)
+![screenshot-2](pics/homepage_dwarka_search_2.png)
+![screenshot-3](pics/homepage_dwarka_search_3.png)
+![screenshot-4](pics/aws_ec2_details.png)
+![screenshot-5](pics/jenkins_console_output.png)
+![screenshot-6](pics/dockerbuild_image.png)
+![screenshot-7](pics/jenkins_autmated_build_successfull.png)
+![screenshot-8](pics/github_webhooks.png)
+![screenshot-9](pics/jenkins_github_webhook_build_success.png)
 
 <!-- GETTING STARTED -->
 ## Getting Started
