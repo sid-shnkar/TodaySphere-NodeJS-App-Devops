@@ -13,6 +13,7 @@ Deployment link - https://todaysphere-app.onrender.com
 * [About the Project](#about-the-project)
   * [Description](#description)
   * [Technologies](#technologies-used)
+  * [APIs used](#apis-used)
   * [Screenshots](#screenshots)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -28,10 +29,18 @@ Deployment link - https://todaysphere-app.onrender.com
 TodaySphere App with completely automated deployment using Jenkins, AWS EC2, Docker and GitHub CI/CD
 
 ### Technologies used
-1. AWS EC2
-2. Jenkins
-3. Docker
-4. GitHub Webhooks (for CI/CD)
+1. Node.js
+2. AWS EC2
+3. Jenkins
+4. Docker
+5. GitHub Webhooks (for CI/CD)
+
+### APIs used
+1. WeatherStack
+2. Mapbox
+3. NewsAPI.org
+4. NASA Open APIs
+5. Bored API
 
 ### Screenshots
 
