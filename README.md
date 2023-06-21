@@ -27,7 +27,8 @@ Deployment link - https://todaysphere-app.onrender.com
 
 ### Description
 
-TodaySphere Node.js App which has completely automated deployment using Jenkins, AWS EC2, Docker and GitHub CI/CD. This app accepts location as an input from the user and based on that it shows the current weather, news for that location/region, an activity of the day which the user can perform and NASA's Astronomy Picture of the Day. A one-stop solution to start a good day! :smiley:
+TodaySphere Node.js App which has completely automated deployment using Jenkins, AWS EC2, Docker and GitHub CI/CD. This app accepts location as an input from the user and based on that it shows the current weather, news for that location/region, an activity of the day which the user can perform and NASA's Astronomy Picture of the Day.
+A one-stop solution to start a good day! :smiley:
 
 For the Devops part of this project, I created an AWS EC2 instance, installed Jenkins on the server, then integrated Jenkins with this GitHub repository containing Node.js app code. Next, using Docker, I dockerized the Node.js app and automated this process on Jenkins. Finally automated the whole process using GitHub Webhooks.
 
